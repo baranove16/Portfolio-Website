@@ -18,7 +18,7 @@ Welcome to my little front-end development portfolio website! The website featur
 # JavaScript Framework
 - Bootstrap 5
 
-Here is a direct link to the [project](file:///Users/lizabaranovska/Desktop/ProjectsForGithub/Portfolio%20Website/index.html#about) !
+Copy and paste to view the project: file:///Users/lizabaranovska/Desktop/ProjectsForGithub/Portfolio%20Website/index.html#about !
 
 
   
