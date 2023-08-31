@@ -9,7 +9,7 @@ Welcome to my little front-end development portfolio website! The website featur
 
 # Requirements
 
-# Lanugages
+# Languages
 - HTML
 - CSS
 - JavaScript
@@ -17,7 +17,7 @@ Welcome to my little front-end development portfolio website! The website featur
 # Libraries
 - FontAwesome 5
   
-# JavaScript Framework
+# JavaScript Frameworks
 - Bootstrap 5
 
 
